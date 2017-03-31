@@ -1,8 +1,9 @@
 #include<iostream>
 
-void fun0()
+void fun1()
 {
-	cout<<"this is fun0";
+	cout<<"this is fun1";
+	cout<<"line2\n";
 }
 
 int main()
